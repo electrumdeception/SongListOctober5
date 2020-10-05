@@ -1,0 +1,32 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* Make the playlist title big and different colored*/
+playlistInfo{
+	color: #FFFFFF;
+	font-size: 34px;
+	width: 100%;
+}
+name{
+	font-size: 48px;
+}
+compilationDate{
+	font-size: 28px;
+	font-style:italic;
+}
+/* Make the background Navy and the text pink, set fonts */
+setList{
+	background-color: #000026;
+	color:#dea5a4 ;
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+}
+/* Make songs apear on their own line, and set font size/detail for the songs */
+song{
+	font-size: 24px;
+	display:block;
+	font-style: normal;
+}
+artist{font-style: italic;font-size:20px;}
+title{font-size: 24px; font-style: italic;}
+genre{font-size: 20px;font-style: italic;}
+releaseYear{ font-size:20px}

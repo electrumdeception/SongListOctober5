@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="SongListFormat.css"?>
+<setList>
+	<playlistInfo>
+		<name>Fun Tunes</name>
+		<compiler>Polly Harrington</compiler>
+		<comilationDate>October 2020</comilationDate>
+	</playlistInfo>
+	<song>
+		<artist>Fleet Foxes</artist>
+		<title>Your Protector</title>
+		<genre>baroque pop</genre>
+		<releaseYear>2008<br/></releaseYear>
+	</song>
+	<song>
+		<artist>The National</artist>
+		<title>Little Faith</title>
+		<genre>indie</genre>
+		<releaseYear>2010</releaseYear>
+	</song>
+	<song>
+		<artist>The Head and the Heart</artist>
+		<title>Library Magic</title>
+		<genre>indie</genre>
+		<releaseYear>2016</releaseYear>
+	</song>
+	<song>
+		<artist>Vampire Weekend</artist>
+		<title>2021</title>
+		<genre>indie pop</genre>
+		<releaseYear>2019</releaseYear>
+	</song>
+	<song>
+		<artist>Sara Bareilles</artist>
+		<title>Armor</title>
+		<genre>pop</genre>
+		<releaseYear>2019</releaseYear>
+	</song>
+	<song>
+		<artist>Mumford and Sons</artist>
+		<title>Babel</title>
+		<genre>indie</genre>
+		<releaseYear>2012</releaseYear>
+	</song>
+	<song>
+		<artist>Beirut</artist>
+		<title>No No No</title>
+		<genre>indie folk</genre>
+		<releaseYear>2015</releaseYear>
+	</song>
+	<song>
+		<artist>Yuno</artist>
+		<title>No Going Back</title>
+		<genre>alternative</genre>
+		<releaseYear>2018</releaseYear>
+	</song>
+	<song>
+		<artist>Hozier</artist>
+		<title>Nina Cried Power </title>
+		<genre>indie pop</genre>
+		<releaseYear>2019</releaseYear>
+	</song>
+	<song>
+		<artist>The Killers</artist>
+		<title>Runaways</title>
+		<genre>alternative</genre>
+		<releaseYear>2013</releaseYear>
+	</song>
+</setList>
